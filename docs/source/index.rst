@@ -1,26 +1,30 @@
+Welcome to MaskGraphene's documentation!
+===================================
+
 .. MaskGraphene documentation master file, created by
-   sphinx-quickstart on Thu Sep 16 19:43:51 2021.
+   sphinx-quickstart on ... .
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-MaskGraphene - documentation
-=============================================================================
+.. MaskGraphene - documentation
+.. =============================================================================
 
 MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning
+==================================================================================================
 
 .. toctree::
    :maxdepth: 1
 
    Installation
    Data availability
-   Hard link generation
-   MaskGraphene on DLPFC
-   MaskGraphene on MHypo
-   Analyses reproduction
+   Tutorial 1_Hard link generation
+   Tutorial 2_MaskGraphene on DLPFC
+   Tutorial 3_MaskGraphene on MHypo
+   Tutorial 4_Analyses reproduction
    
 
 .. image:: ../Images/ppl.jpg
-   :width: 600
+   :width: 700
 
 
 
