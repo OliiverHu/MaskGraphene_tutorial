@@ -23,7 +23,7 @@ MaskGraphene: Advancing joint embedding, clustering, and batch correction for sp
    Tutorial 4_Analyses reproduction
    
 
-.. image:: ../Images/pipeline.pdf
+.. image:: ../Images/pipeline.png
    :width: 700
 
 
