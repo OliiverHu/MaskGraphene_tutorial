@@ -3,7 +3,7 @@ Data availability
 
 
 .. list-table:: ST Dataset Info Table
-   :widths: 25 25 50 50 50 50
+   :widths: 25 25 50 50 50 50 50
    :header-rows: 1
 
    * - ST Dataset
@@ -12,31 +12,35 @@ Data availability
      - ST protocol
      - Num. of slices
      - Source
+     - Download link
    * - Human Dorsal Lateral Prefrontal Cortex data
      - Sequencing-based
      - DLPFC
      - 10x Visium
      - 12
      - `spatialLIBD <http://spatial.libd.org/spatialLIBD/>`__
+     - `link <https://zenodo.org/records/10698880>`__
    * - Mouse Brain Section 2 Sagittal Anterior and Posterior
      - Sequencing-based
      - MB2SA\&B
      - 10x Visium
      - 2
      - `Mouse Brain Serial Section 2 Sagittal Anterior <https://www.10xgenomics.com/resources/datasets/mouse-brain-serial-section-2-sagittal-anterior-1-standard>`__
+     - `link <https://zenodo.org/records/10698931>`__
    * - MOSTA Embryo
      - Sequencing-based
      - Embryo
      - Stereo-seq
      - 50$+$
      - `MOSTA Resource <https://db.cngb.org/stomics/mosta/resource/>`__
+     - `link <https://zenodo.org/records/10698963>`__
    * - Mouse Hypothalamus
      - Imaging-based
      - MHypo
      - MERFISH
      - 5
      - `Datadryad <https://datadryad.org/stash/dataset/doi:10.5061/dryad.8t8s248>`__
-
+     - `link <https://zenodo.org/records/10698909>`__
 
 
 .. .. list-table:: ST Dataset Info Table
