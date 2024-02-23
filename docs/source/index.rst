@@ -46,4 +46,4 @@ tracking spatiotemporal changes during mouse embryonic development
 
 Citation
 ========
-Yunfei Hu, etc. "MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning", currently under review
+Yunfei Hu, et al. "MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning", currently under review
