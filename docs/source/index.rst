@@ -20,7 +20,9 @@ MaskGraphene: Advancing joint embedding, clustering, and batch correction for sp
    Tutorial 1_Hard link generation
    Tutorial 2_MaskGraphene on DLPFC
    Tutorial 3_MaskGraphene on MHypo
-   Tutorial 4_Analyses reproduction
+   Tutorial 4_MaskGraphene on Embryo
+   Tutorial 5_MaskGraphene on MB2SA&B
+   Tutorial 5_Bio analyses
    
 
 .. image:: ../Images/pipeline.png
