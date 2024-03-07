@@ -31,7 +31,7 @@ Data availability
      - Sequencing-based
      - Embryo
      - Stereo-seq
-     - 50$+$
+     - >= 50
      - `MOSTA Resource <https://db.cngb.org/stomics/mosta/resource/>`__
      - `link <https://zenodo.org/records/10698963>`__
    * - Mouse Hypothalamus
