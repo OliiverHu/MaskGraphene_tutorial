@@ -22,7 +22,7 @@ Data availability
      - `link <https://zenodo.org/records/10698880>`__
    * - Mouse Brain Section 2 Sagittal Anterior and Posterior
      - Sequencing-based
-     - MB2SA\&B
+     - MB2SA\&P
      - 10x Visium
      - 2
      - `Mouse Brain Serial Section 2 Sagittal Anterior <https://www.10xgenomics.com/resources/datasets/mouse-brain-serial-section-2-sagittal-anterior-1-standard>`__
@@ -41,6 +41,13 @@ Data availability
      - 5
      - `Datadryad <https://datadryad.org/stash/dataset/doi:10.5061/dryad.8t8s248>`__
      - `link <https://zenodo.org/records/10698909>`__
+   * - Mouse Brain
+     - Imaging-based
+     - MB
+     - MERFISH
+     - 33
+     - `Zenodo Records <https://zenodo.org/records/8167488>`__
+     - `link <https://zenodo.org/records/8167488>`__
 
 
 .. .. list-table:: ST Dataset Info Table

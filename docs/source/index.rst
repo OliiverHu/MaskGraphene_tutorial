@@ -17,11 +17,11 @@ MaskGraphene: Advancing joint embedding, clustering, and batch correction for sp
 
    Installation
    Data availability
-   Tutorial 1_Hard link generation
+   Tutorial 1_Hard-link generation
    Tutorial 2_MaskGraphene on DLPFC
    Tutorial 3_MaskGraphene on MHypo
    Tutorial 4_MaskGraphene on Embryo
-   Tutorial 5_MaskGraphene on MB2SA&B
+   Tutorial 5_MaskGraphene on MB2SA&P
    Tutorial 5_Bio analyses
    
 
@@ -32,20 +32,22 @@ MaskGraphene: Advancing joint embedding, clustering, and batch correction for sp
 
 Overview
 ========
-With the rapid advancement and generation of spatial transcriptomics (ST), integrating
-data from multiple ST slices is increasingly crucial for joint slice analysis. Nevertheless, the tasks of
-learning joint embeddings and identifying shared and unique cell/domain types across ST slices re-
-main challenging. To address this, we introduce a method called MaskGraphene, for the purpose of
-better aligning and integrating different ST slices using both self-supervised and contrastive learn-
-ing. MaskGraphene learns the joint embeddings to capture the geometric information efficiently.
-MaskGraphene further facilitates spatial aware data integration and simultaneous identification of
-shared and unique cell/domain types across different slices. We have applied MaskGraphene to conduct
-integrative analyses on various types of ST datasets, including human cortex slices, mouse hypotha-
-lamus data, mouse sagittal brain sections, and mouse embryo developmental data. Across datasets,
-MaskGraphene successfully optimized joint embedding by introducing inter-slice connections, effec-
-tively performing batch correction and capturing shared tissue structures across different slices, and
-tracking spatiotemporal changes during mouse embryonic development
+With the rapid advancement and generation of spatial transcriptomics (ST), integrating data from multiple ST slices is increasingly crucial for joint slice analysis. 
+Nevertheless, the tasks of learning joint embeddings and identifying shared and unique cell/domain types across ST slices remain challenging. 
+To address this, we introduce MaskGraphene, for the purpose of better aligning and integrating different ST slices using both self-supervised and contrastive learning. 
+MaskGraphene learns the high-quality joint embeddings to capture the geometric information efficiently. 
+MaskGraphene further facilitates spatial aware data integration and simultaneous identification of shared and unique cell/domain types across different slices. 
+We have applied MaskGraphene to conduct integrative analyses on various types of ST datasets, including human cortex slices, mouse hypothalamus data, mouse sagittal brain sections, and mouse embryo developmental data. 
+Across datasets, MaskGraphene successfully optimized joint embedding by introducing inter-slice connections, effectively performing batch correction and capturing shared tissue structures across different slices, and tracking spatiotemporal changes during mouse embryonic development. 
+Our experimental results demonstrate that the batch effect is significantly mitigated in the data, validated by the embedding mixture metrics iLISI, while also exhibiting an ideal distribution of the joint embedding in a manner that preserves geometric information and ensures good clustering results and more interpretable downstream analyses.
 
 Citation
 ========
-Yunfei Hu, et al. "MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning", currently under review
+@article{hu2024maskgraphene,
+  title={MaskGraphene: an advanced framework for interpretable latent representation for multi-slice, multi-condition spatial transcriptomics},
+  author={Yunfei Hu, Zhenhan Lin, Manfei Xie, Weiman Yuan, Yikang Li, Mingxing Rao, Yichen Henry Liu, Wenjun Shen, Lu Zhang, and Xin Maizie Zhou},
+  journal={bioRxiv},
+  pages={2024--02},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory}
+}
