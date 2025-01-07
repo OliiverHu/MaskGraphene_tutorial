@@ -17,9 +17,9 @@ MaskGraphene: Advancing joint embedding, clustering, and batch correction for sp
 
    Installation
    Data availability
-   Tutorial 1a_Hard-link generation
-   Tutorial 1b_Hard-link generation using PASTE
-   Tutorial 1c_Hard-link generation using SPACEL
+   Tutorial 1_Hard-link generation
+   .. Tutorial 1b_Hard-link generation using PASTE
+   .. Tutorial 1c_Hard-link generation using SPACEL
    Tutorial 2_MaskGraphene on DLPFC
    Tutorial 3_MaskGraphene on MHypo
    Tutorial 4_MaskGraphene on MB
